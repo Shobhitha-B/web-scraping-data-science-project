@@ -6,14 +6,14 @@ Web scraping is also useful for personal use. Python includes a nice library cal
 In this article, we will extract current stock prices using web scraping and save them in an excel file using Python.
 
 
-Required Modules
+Required Modules:
 The Requests module allows you to integrate your Python programs with web services.
 The Beautiful Soup module is designed to make screen scraping a snap.
 Using Python’s interactive console and these two libraries, we’ll walk through how to assemble a web page and work with the textual information available on it.
 The Pandas module is designed to provide high-performance data manipulation in Python. 
 It is used for data analysis that requires lots of processing, such as restructuring, cleaning or merging, etc.
 
-Approach
+Approach:
 
 Initially, we are going to import our required libraries.
 Then we take the URL stored in our list.
